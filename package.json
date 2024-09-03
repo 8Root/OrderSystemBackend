@@ -1,0 +1,20 @@
+{
+  "name": "bestelltablebackend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "express.js": "^1.0.0"
+  }
+}
